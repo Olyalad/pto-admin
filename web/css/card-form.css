@@ -1,0 +1,38 @@
+#card_form .form-group {
+    margin-bottom: 5px;
+}
+
+#card_form .form-control {
+    height: 26px;
+    padding: 3px 6px;
+    text-transform: uppercase;
+}
+
+#card_form label {
+    font-weight: normal;
+}
+
+div.required label:after {
+    content: " *";
+    color: red;
+}
+
+#card_form label, #card_form .help-block {
+    margin: 0;
+}
+
+#card_form .input-group-addon {
+    padding: 3px 6px;
+}
+
+#card_form .panel {
+    margin-bottom: 5px;
+}
+
+#card_form .panel-heading, #card_form .panel-body {
+    padding: 3px 10px;
+}
+
+#card_form hr {
+    margin: 5px 10px;
+}
